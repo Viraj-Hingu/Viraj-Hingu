@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Developer passionate about building scalable web applications and modern user experiences. Skilled in JavaScript, React.js, Node.js, Express.js, MongoDB, Firebase, and Cloudinary. Experienced in creating full-stack projects including real-time chat apps, AI-powered platforms, productivity dashboards, and facial recognition systems. Strong focus on responsive UI/UX, API integration, authentication systems, and performance optimization. Continuously learning backend architecture, Docker, and deployment workflows while building production-ready applications and collaborative projects.<br>
+MERN Stack Developer passionate about building scalable, responsive web applications with modern technologies and great user experiences.
 
 
 ## 🌐 Socials:
